@@ -1,0 +1,83 @@
+[
+  {
+    "id": "template_1",
+    "width": 8,
+    "height": 8,
+    "theme": "catacombs",
+    "cells": [
+      { "x": 1, "y": 1, "type": "floor" },
+      { "x": 2, "y": 1, "type": "floor" },
+      { "x": 3, "y": 1, "type": "floor" },
+      { "x": 1, "y": 2, "type": "floor" },
+      { "x": 2, "y": 2, "type": "floor" },
+      { "x": 3, "y": 2, "type": "floor" },
+      { "x": 1, "y": 3, "type": "floor" },
+      { "x": 2, "y": 3, "type": "floor" },
+      { "x": 3, "y": 3, "type": "floor" }
+    ],
+    "monsters": [{ "type": "rat", "x": 2, "y": 2, "behavior": "patrol" }],
+    "items": [{ "type": "torch", "x": 1, "y": 1 }],
+    "start": { "x": 1, "y": 1 },
+    "stairsDown": { "x": 3, "y": 3 }
+  },
+  {
+    "id": "template_2",
+    "width": 10,
+    "height": 10,
+    "theme": "catacombs",
+    "cells": [
+      { "x": 2, "y": 2, "type": "floor" },
+      { "x": 3, "y": 2, "type": "floor" },
+      { "x": 4, "y": 2, "type": "floor" },
+      { "x": 2, "y": 3, "type": "floor" },
+      { "x": 3, "y": 3, "type": "floor" },
+      { "x": 4, "y": 3, "type": "floor" },
+      { "x": 2, "y": 4, "type": "floor" },
+      { "x": 3, "y": 4, "type": "floor" },
+      { "x": 4, "y": 4, "type": "floor" },
+      { "x": 5, "y": 3, "type": "floor" },
+      { "x": 1, "y": 3, "type": "floor" }
+    ],
+    "monsters": [
+      { "type": "skeleton", "x": 4, "y": 2, "behavior": "guard" },
+      { "type": "rat", "x": 2, "y": 4, "behavior": "patrol" }
+    ],
+    "items": [
+      { "type": "health_potion", "x": 3, "y": 3 },
+      { "type": "key_iron", "x": 5, "y": 3 }
+    ],
+    "start": { "x": 2, "y": 2 },
+    "stairsDown": { "x": 4, "y": 4 }
+  },
+  {
+    "id": "template_3",
+    "width": 12,
+    "height": 12,
+    "theme": "caves",
+    "cells": [
+      { "x": 3, "y": 3, "type": "floor" },
+      { "x": 4, "y": 3, "type": "floor" },
+      { "x": 5, "y": 3, "type": "floor" },
+      { "x": 3, "y": 4, "type": "floor" },
+      { "x": 4, "y": 4, "type": "floor" },
+      { "x": 5, "y": 4, "type": "floor" },
+      { "x": 3, "y": 5, "type": "floor" },
+      { "x": 4, "y": 5, "type": "floor" },
+      { "x": 5, "y": 5, "type": "floor" },
+      { "x": 6, "y": 4, "type": "floor" },
+      { "x": 2, "y": 4, "type": "floor" },
+      { "x": 4, "y": 2, "type": "floor" },
+      { "x": 4, "y": 6, "type": "floor" }
+    ],
+    "monsters": [
+      { "type": "goblin", "x": 5, "y": 3, "behavior": "patrol" },
+      { "type": "goblin", "x": 3, "y": 5, "behavior": "patrol" }
+    ],
+    "items": [
+      { "type": "gold", "x": 4, "y": 4 },
+      { "type": "mana_potion", "x": 6, "y": 4 }
+    ],
+    "start": { "x": 3, "y": 3 },
+    "stairsDown": { "x": 5, "y": 5 }
+  }
+]

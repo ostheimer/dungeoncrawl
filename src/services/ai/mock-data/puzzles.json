@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pressure_plates",
+    "description": "Vier Steine im Boden. Nur einer traegt.",
+    "solution": "step_center",
+    "cells": [[2, 2], [2, 3], [3, 2], [3, 3]]
+  },
+  {
+    "id": "lever_sequence",
+    "description": "Drei Hebel. Die Inschrift sagt: Feuer, Wasser, Luft.",
+    "solution": "left_center_right",
+    "cells": [[1, 4], [2, 4], [3, 4]]
+  },
+  {
+    "id": "rune_door",
+    "description": "Eine Tuer mit sechs Runen. Zwei fehlen.",
+    "solution": "ful_ya",
+    "cells": [[4, 4]]
+  },
+  {
+    "id": "weight_room",
+    "description": "Der Raum hat eine Waage. Etwas muss darauf.",
+    "solution": "place_item",
+    "cells": [[5, 5]]
+  },
+  {
+    "id": "mirror_light",
+    "description": "Ein Spiegel. Die Fackel muss ihn treffen.",
+    "solution": "align_light",
+    "cells": [[1, 1], [2, 1], [3, 1]]
+  },
+  {
+    "id": "water_channel",
+    "description": "Ein Kanal blockiert den Weg. Das Wasser muss abfliessen.",
+    "solution": "pull_drain",
+    "cells": [[0, 3], [1, 3], [2, 3]]
+  },
+  {
+    "id": "statue_eyes",
+    "description": "Zwei Statuen. Ihre Blicke muessen sich treffen.",
+    "solution": "rotate_both",
+    "cells": [[3, 3], [4, 3]]
+  },
+  {
+    "id": "chime_order",
+    "description": "Drei Gongs. Sie muessen in der richtigen Reihenfolge erklingen.",
+    "solution": "high_low_mid",
+    "cells": [[2, 5], [3, 5], [4, 5]]
+  },
+  {
+    "id": "sliding_blocks",
+    "description": "Steinbloecke blockieren den Ausgang. Sie lassen sich schieben.",
+    "solution": "push_sequence",
+    "cells": [[1, 2], [2, 2], [1, 3], [2, 3]]
+  },
+  {
+    "id": "blood_altar",
+    "description": "Ein Altar verlangt ein Opfer. Nur ein Tropfen.",
+    "solution": "drop_blood",
+    "cells": [[4, 4]]
+  }
+]

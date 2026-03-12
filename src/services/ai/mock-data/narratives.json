@@ -1,0 +1,98 @@
+{
+  "room_enter": [
+    "Die Luft ist feucht und kuehl. Irgendwo tropft Wasser von der Decke.",
+    "Alte Fackeln erhellen den Gang. Schatten tanzen an den Waenden.",
+    "Ein kalter Hauch streicht durch den Raum. Ihr atmet vorsichtig.",
+    "Stein und Moder. Hier war lange niemand.",
+    "Der Gang weitet sich. Vor euch liegt ein dusterer Saal.",
+    "Risse in den Waenden. Etwas bewegt sich im Dunkeln.",
+    "Eine Inschrift an der Wand: Wer hier eintritt, verlaesst die Welt.",
+    "Fackelschein. Eure Schritte hallen leise nach.",
+    "Die Decke ist niedrig. Ihr muesst euch ducken.",
+    "Ein Kreuzweg. Vier Richtungen, vier Schicksale."
+  ],
+  "door_open": [
+    "Das Schloss gibt nach. Die Tuer quietscht.",
+    "Die Tuer gleitet auf. Dahinter: Finsternis.",
+    "Ein leises Klicken. Die Tuer steht offen.",
+    "Schwere Eichenbohlen weichen. Staub wirbelt auf.",
+    "Die Tuer oeffnet sich knarrend. Was erwartet euch?",
+    "Das Schloss bricht. Die Tuer schwingt auf.",
+    "Kaltluft strömt heraus. Ihr tretet ein.",
+    "Die Tuer war nur angelehnt. Jetzt seht ihr den Raum.",
+    "Eiserne Angeln quietschen. Die Tuer gibt den Blick frei.",
+    "Ein Riegel gleitet zurueck. Die Tuer steht offen."
+  ],
+  "combat_start": [
+    "Feindliche Schatten loesen sich aus der Dunkelheit.",
+    "Ein Heulen. Die Kreatur springt euch an.",
+    "Waffen klirren. Der Kampf beginnt.",
+    "Ihr seid umzingelt. Kein Zurück.",
+    "Rote Augen im Dunkeln. Sie haben euch entdeckt.",
+    "Ein Schrei. Die Monster stürmen vor.",
+    "Klingen blitzen. Der erste Schlag faellt.",
+    "Sie waren hinter der Ecke. Jetzt greifen sie an.",
+    "Die Luft steht still. Dann der Angriff.",
+    "Gegner tauchen auf. Bereitet euch vor."
+  ],
+  "combat_end": [
+    "Der letzte Feind sinkt zu Boden. Stille.",
+    "Ihr atmet schwer. Der Kampf ist vorbei.",
+    "Leichen liegen am Boden. Ihr habt ueberlebt.",
+    "Blut und Staub. Ihr habt gewonnen.",
+    "Die Kreatur gibt einen letzten Laut von sich und stirbt.",
+    "Waffen senken sich. Ruhe kehrt ein.",
+    "Ihr wischt das Blut ab. Weiter geht es.",
+    "Der letzte Schlag. Dann Stille.",
+    "Die Gegner sind besiegt. Aber zu welchem Preis?",
+    "Ihr steht siegreich in der Stille."
+  ],
+  "puzzle_interact": [
+    "Ein Mechanismus klickt. Etwas bewegt sich.",
+    "Die Runen leuchten schwach. Ein Raetsel?",
+    "Ihr beruehrt die Steine. Sie sind warm.",
+    "Eine Inschrift: Nur der Weise findet den Weg.",
+    "Hebel und Rader. Was loest ihr aus?",
+    "Die Symbole scheinen eine Ordnung zu haben.",
+    "Ihr dreht die Scheibe. Ein Knacken ertoent.",
+    "Vier Steine, vier Zeichen. Probiert es.",
+    "Etwas gibt nach. Der Mechanismus reagiert.",
+    "Die Wand vibriert. Das Raetsel wartet."
+  ],
+  "character_death": [
+    "Ein letzter Seufzer. Dann Stille.",
+    "Der Koerper sackt zusammen. Es ist vorbei.",
+    "Das Licht in den Augen erlischt.",
+    "Ein Gefaehrte weniger. Die Gruppe trauert.",
+    "Der Tod kommt leise. Kein Heldentod.",
+    "Blut versickert im Stein. Ein Leben endet.",
+    "Die Wunde war zu tief. Er geht nicht mehr.",
+    "Ihr schliesst die Augen des Gefaehrten.",
+    "Der Kampf hat ihn gefordert. Ruhe in Frieden.",
+    "Ein letzter Blick. Dann Dunkelheit."
+  ],
+  "level_change": [
+    "Die Treppe fuehrt hinab. Noch tiefer.",
+    "Ein neuer Abschnitt des Verlieses. Vorsicht.",
+    "Die Stufen enden. Vor euch: ein neues Level.",
+    "Ihr steigt hinab. Die Luft wird kaelter.",
+    "Die Tiefe ruft. Ihr folgt.",
+    "Ein neuer Gang. Neue Gefahren.",
+    "Die Ebene wechselt. Das Verlies ist gross.",
+    "Hinunter geht es. Was erwartet euch?",
+    "Die Treppe fuehrt in die Finsternis.",
+    "Level um Level. Ihr dringt vor."
+  ],
+  "exploration_tick": [
+    "Ihr horcht. Nur euer Atem und das Tropfen.",
+    "Die Fackel flackert. Schatten bewegen sich.",
+    "Irgendwo knarrt Holz. Das Verlies lebt.",
+    "Ihr tastet euch vor. Schritt fuer Schritt.",
+    "Die Stille wiegt schwer. Bleibt wachsam.",
+    "Ein Luftzug. Irgendwo muss eine Oeffnung sein.",
+    "Eure Schritte hallen. Ihr seid nicht allein?",
+    "Die Zeit vergeht. Das Verlies wartet.",
+    "Ihr prueft die Wand. Nichts. Weiter.",
+    "Muede, aber wachsam. So geht ihr voran."
+  ]
+}
